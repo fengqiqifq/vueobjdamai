@@ -1,0 +1,23 @@
+{
+  "name": "object",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "babel-plugin-import": "^1.13.0",
+    "core-js": "^3.4.3",
+    "jquery": "^3.4.1",
+    "vant": "^2.4.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.0.7"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-router": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
