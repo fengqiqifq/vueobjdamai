@@ -9,7 +9,7 @@
   "dependencies": {
     "babel-plugin-import": "^1.13.0",
     "core-js": "^3.4.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vant": "^2.4.1",
     "vue": "^2.6.11",
     "vue-router": "^3.0.7"
